@@ -3,4 +3,4 @@
 코드 참고하시고 문제 풀으셔도 되요.(복사 붙여넣기는 되도록이면 하시지 마세요)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cgj0079&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgj0079)](https://github.com/cgj0079/iPhone15pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgj0079)]
